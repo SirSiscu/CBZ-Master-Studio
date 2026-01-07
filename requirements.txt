@@ -1,0 +1,7 @@
+# Core
+# tkinter (included in Python standard library for Windows)
+
+# Optional but recommended for better OS integration
+winshell
+pywin32
+pyinstaller
