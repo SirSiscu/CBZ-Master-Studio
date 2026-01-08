@@ -4,7 +4,7 @@
 
 - 🇬🇧 [English](#english)
 - 🇪🇸 [Español](#español)
-- 🇨🇦 [Català](#català)
+- 🇦🇩 [Català](#català)
 
 ---
 
